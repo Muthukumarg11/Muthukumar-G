@@ -30,15 +30,15 @@ namespace Teacher
 
                 {
 
-                new TeacherModel { Tid = 101, Tname = "Binu Judith", Tclass = "Maths", Tsection = "A" },
+                new TeacherModel { Tid = 101, Tname = "Muthu", Tclass = "English", Tsection = "A" },
 
-                new TeacherModel { Tid = 102, Tname = "Anit", Tclass = "CSE", Tsection = "B" },
+                new TeacherModel { Tid = 102, Tname = "Harish", Tclass = "CSE", Tsection = "B" },
 
-                new TeacherModel { Tid = 103, Tname = "Hepsiba", Tclass = "Civil", Tsection = "A" },
+                new TeacherModel { Tid = 103, Tname = "Ram", Tclass = "BCA", Tsection = "A" },
 
-                new TeacherModel { Tid = 104, Tname = "Sugan", Tclass = "EEE", Tsection = "A" },
+                new TeacherModel { Tid = 104, Tname = "Raj", Tclass = "EEE", Tsection = "A" },
 
-                new TeacherModel { Tid = 105, Tname = "Jegan", Tclass = "ECE", Tsection = "B" }
+                new TeacherModel { Tid = 105, Tname = "Ganesan", Tclass = "Civil", Tsection = "B" }
 
             };
 
